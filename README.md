@@ -25,7 +25,7 @@ This project simulates a real-world adversary attack using the Atomic Red Team f
 
 | Time | Section |
 |------|---------|
-| 00:00 | Opening |
+| 00:00 - 00:58 | Opening |
 | 05:43 – 11:46 | Claudia's Presentation |
 | 11:47 – 12:06 | Conclusion |
 
