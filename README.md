@@ -41,6 +41,6 @@ This project simulates a real-world adversary attack using the Atomic Red Team f
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Capstone Video
 
-> 📎 *[Attach your video link here once uploaded to GitHub Releases]*
+[▶️ Watch the Capstone Video](https://github.com/N3rdz136/Capstone-Project/releases/tag/capstone-video)
