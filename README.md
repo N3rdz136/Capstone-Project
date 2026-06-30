@@ -37,6 +37,7 @@ This project simulates a real-world adversary attack using the Atomic Red Team f
 - Splunk
 - BlueSpawn
 - Windows 11 Business
+- VirtualBox
 
 ---
 
